@@ -7,4 +7,4 @@ Basic tap counter in Flutter.
 ![](./assets/screenshots/Screenshot_20210419_014510_com.example.counter.jpg)
 
 ## Apk
-[Download Apk](build/app/outputs/flutter-apk/app-release.apk)
+[Download Apk](https://drive.google.com/file/d/1fBIXbLWCPc9YzRXZJSxqSSsdFxVBQaaT/view?usp=sharing)
